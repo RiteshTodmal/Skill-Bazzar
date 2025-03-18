@@ -1,0 +1,19 @@
+# Ignore compiled class files
+*.class
+*.war
+*.jar
+
+# Ignore IDE-specific files
+/.settings/
+/.classpath
+/.project
+
+# Ignore build output folders
+/target/
+/bin/
+
+# Ignore logs
+*.log
+
+# Ignore dependency folders
+/node_modules/
