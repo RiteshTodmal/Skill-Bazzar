@@ -17,3 +17,5 @@
 
 # Ignore dependency folders
 /node_modules/
+
+bootstrapSupport.jsp
